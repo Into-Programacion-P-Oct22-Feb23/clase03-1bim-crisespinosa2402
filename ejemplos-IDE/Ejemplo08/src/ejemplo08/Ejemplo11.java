@@ -22,7 +22,7 @@ public class Ejemplo11 {
         int d = 9;
         int e = 3;
 
-        int resultado = a + b * c + d / e;
+        int resultado = a + b * c + d / e; 
         System.out.println(resultado);
 
     }
